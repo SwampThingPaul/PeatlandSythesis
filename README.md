@@ -11,3 +11,12 @@ world region\]
 
 How does climate change influence mass balance of carbon in peatlands
 between high and low elevation peatlands in South America?
+
+- `PaperReviewAssignment.R` - script to randomly assign papers given a
+  list.
+- `spatialdata_map.R` - generalized map of South America with peatland
+  extent identified.
+- `spatialdata_studycoord.R` - script to convert DMS to DD and uniform
+  coordinate system
+- `litsearchr_explore.R` - network analysis based on prior list of
+  publications
